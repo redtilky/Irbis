@@ -33,11 +33,11 @@ It is too easy. All you have to do is just `python irbis.py <arguments> <objects
 ```
 
 ### Example usage of all: 
-```
+```diff
 python irbis.py -l https://kahleryasla.github.io/bilgay-brute-force/ -w ./common.txt -y --name -u username -p password --xpath -b /html/body/div/form/button --end
 ```
 
 ```diff
--Use it for the good of others! I don't take the responsibility of your actions!-
+!!!Use it for the good of others! I don't take the responsibility of your actions!!!
 ```
 #**Follow me for more on Instagram @bilgayaslan_**
