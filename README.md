@@ -9,7 +9,7 @@ To being able to use _Irbis_ you'll need 3 things. A ZSH or BASH terminal, Selen
 It is so simple. Just visit the [Seleniums Website](https://pypi.org/project/selenium/) or run the command:
 ```pip install selenium```
 
-## How to use _Irbis_?
+## How to run Irbis?
 It is too easy. All you have to do is just `python irbis.py <arguments> <objects> --end` (`--end` is required at the end of the command)
 
 ### Commands: 
