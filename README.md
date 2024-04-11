@@ -6,7 +6,7 @@ _Irbis_ is my first project in GitHub. That's why I am giving it opensource to e
 To being able to use _Irbis_ you'll need 3 things. A ZSH or BASH terminal, Selenium library and Python.
 
 ## How to install **Selenium**?
-It is so simple. Just visit the [Seleniums Website](https://pypi.org/project/selenium/) or run the command down below:
+It is so simple. Just visit the [Seleniums Website](https://pypi.org/project/selenium/) or run the command:
 ```pip install selenium```
 
 ## How to use _Irbis_?
